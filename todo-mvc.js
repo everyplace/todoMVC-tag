@@ -15,7 +15,7 @@ var todo = function(){
       prototype: Todo
     });
   });
-}
+};
 var script = document.createElement('script');
 script.setAttribute('src','//cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/0.6.0/webcomponents.min.js');
 script.setAttribute('type','text/javascript');
