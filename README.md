@@ -1,5 +1,5 @@
 # todo-mvc
-An implementation of an entire todoMVC application in a single tag.
+An implementation of an entire asynchronous, local-storage-enabled, responsive, react-based todoMVC application in a single tag.
 
 ##Installation
 Just include the script in your project.
