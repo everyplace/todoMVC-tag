@@ -1,4 +1,4 @@
-# todoMVC-tag
+# todo-mvc
 An implementation of an entire todoMVC application in a single tag.
 
 ##Installation
