@@ -1,0 +1,25 @@
+{
+  "name": "todo-mvc",
+  "main": "todo-mvc.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/everyplace/todo-mvc",
+  "authors": [
+    "Erin Sparling <erin@everyplace.net>"
+  ],
+  "description": "An sarcastic implementation of an entire todoMVC application in a single tag.",
+  "keywords": [
+    "todo",
+    "mvc",
+    "todoMVC",
+    "WebComponents",
+    "sarcasm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
